@@ -11,8 +11,12 @@
   }
 }
 
+:root {
+  --offwhite: rgb(243 244 246);
+}
+
 .carousel::before {
-  background: linear-gradient(-180deg, rgba(234, 237, 237, 0), #e3e6e6);
+  background: linear-gradient(-180deg, rgba(234, 237, 237, 0), var(--offwhite));
   bottom: 0;
   content: "";
   left: 0;

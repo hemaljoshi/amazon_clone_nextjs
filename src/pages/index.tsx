@@ -9,7 +9,7 @@ interface Props {
 
 export default function Home({ products }: Readonly<Props>) {
   return (
-    <div className="bg-[#E3E6E6]">
+    <div className="bg-gray-100">
       <Head>
         <title>Amazon 2.0</title>
       </Head>

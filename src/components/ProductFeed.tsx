@@ -30,6 +30,7 @@ const ProductFeed = ({ products }: Props) => {
           height={600}
           src="https://i.ibb.co/dbfYx4f/ad-banner.jpg"
           alt="ad-banner"
+          priority={false}
         />
       </div>
 
