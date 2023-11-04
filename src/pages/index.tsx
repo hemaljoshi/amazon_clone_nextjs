@@ -1,14 +1,13 @@
-import Image from "next/image";
 import Head from "next/head";
 import Header from "@/components/Header";
 import Banner from "@/components/Banner";
 import ProductFeed from "@/components/ProductFeed";
 
-interface props {
+interface Props {
   products: any;
 }
 
-export default function Home({ products }: props) {
+export default function Home({ products }: Readonly<Props>) {
   return (
     <div className="bg-[#E3E6E6]">
       <Head>

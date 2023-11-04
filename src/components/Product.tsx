@@ -3,7 +3,7 @@ import React from "react";
 import { StarIcon } from "@heroicons/react/solid";
 import Currency from "react-currency-formatter";
 
-interface props {
+interface Props {
   id: number;
   title: string;
   price: number;
@@ -12,7 +12,7 @@ interface props {
   image: string;
 }
 
-const Product = ({ id, title, price, description, category, image }: props) => {
+const Product = ({ id, title, price, description, category, image }: Props) => {
   const MAX_RATING = 5;
   const MIN_RATING = 1;
 
