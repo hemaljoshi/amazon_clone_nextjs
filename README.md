@@ -44,7 +44,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/amazon-clone-nextjs.git
+   git clone https://github.com/joshihemal/amazon_clone_nextjs.git
    ```
 
 2. Change the directory to the project folder:
