@@ -81,6 +81,10 @@ Before running the application, you need to set up the required configuration va
    - Obtain your GitHub OAuth credentials (Client ID and Client Secret).
    - Update the configuration in `[...nextauth].ts`.
 
+4. **ENV configuration**
+
+   - download env file from private repo
+
 ## Usage
 
 Once the configuration is set up, you can start the development server with the following command:

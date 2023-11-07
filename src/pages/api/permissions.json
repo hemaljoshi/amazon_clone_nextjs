@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "amazn-next-487a4",
-  "private_key_id": "415a361750066ee735452da1b120e480c8f620a3",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmWBvVAASgV/9I\nHENbER/pnMGLr/tVMncBTbDsKdpd5ZHGnu5GojSpQGIGTpjnzmWzaDAOWVk9yiUP\nP6a8gFOHcoBK4v8OyxWIjBVnKKVDWI35hQwyT9O8ZridUJeoL06rvd8FhrPHKSWe\nTxXG3nzd4LI2NuIpRtFcF0+/piuPFm2+vAWAG4DeEDfbH0y/hMfin1etyvlrw61l\nTfSC+ZyCpsGNLgGNgclokNdHNjPxcyO0TBQemw+bhDyQ7Xi7VNRjokpUkdvIkZZT\n25oVdY9UMV2V8FF0OPgqNzgdS/vIeG6cxFXoujhwqL5o+dGIR+LL8yfD/V5aAiCj\ndMlqFPqFAgMBAAECggEADdbT6UlBLpzmQyJ/fmlYPBhGUvU5xglhihUjtHY5RxQV\nKCRArdWLZ48QyLZhIByqwehtDRiPupAMPBlJ1DIh9j7HX9OZsD+i+Oix/tKMc06q\nsIPKSLpITaBHLjwOWK1SOyrGuKqPtPCzrZjQoT+76D1sM4374WlqpsyACPFjJi+E\nwaMeOULy+E+KFWoAyUHZSeGwYRehtnBdmERJlqV//uHPc3kygStDRWBWWOmGSFKQ\nIbirxXkarXRU0T8nW4gxlMX4NDxbS2/eTW0+GWY/t+kVB/uHj0ev3nMaV4NDaAOp\nBHItzYe7qd0aeYV1IHC3auRq0vGjIke3NLSFCsvCoQKBgQDQfzESjYDjJ9OdoFqx\n8KcKEE/Y5w49D22RN64fZv6D1dCTe25U9QgzeV30rHeK29/ppmtZ9dAs28kThgmK\nF52gZn0S94tz7+QwSeNeR4rBQgn4HfbfzouTLJGnCwF/KfkDgo6m/A7z65byi2Fg\n4TPE/rA6Rc5oXeqcSj4Pu0WnpQKBgQDMPlDxX2QDHIA7w9fbc8MLHNnrgM5gEup7\nyf+a4G8leZoX9RnrlGetKz2ubvHkKRo+CSEcKAYOrGL362wgUD+zruno2L5jYUmK\nbaNaA9cqcto05+Z/OKLbzKpum3+Sx226VAyAudmYjwjCBvyNuHRCsWBBJ9FT6lfn\nbZOHgQyRYQKBgQDFE2TUL5LjpFKfjOINjfamSZLf6E8KIlojyKi6oAT1opZbwXEh\nttdAqHjJ/HemdnzpAtg4GWTj8f/Xh3ve3sGsyxNwaTKUrO1ZQ446II+kawK3V8Nx\n+27s91TZu0p347mvuqmSZ3DO2SI+Msch5tyjWUZEXpVjC1rmzjppbk/BzQKBgDcD\nzh/GNxVTdwMiNKGrI+15XwW9k1lznu+rMIuSSr4IbEZpwgqf1fFiRWIYBlYT8Dqn\nkOCZs0/+hUYMhvqJQy9uPRl4UIhKa1m7QJX9lNadS0OW95JrOgsErR/QCOQLjfXz\nr854wTEDzjMdWKf/+GkCiE/kntEAvZ7b+DI2w6DhAoGBAMOwU2kKb/glmIfohPYC\nhwoUQg4w+kGE0SIbP7SvijPty7S+qHwsQPRtFQZbtxYaDcSjjPc4pKr02xtDCsNJ\n7D9no+oLI17XYdli8X/CVxPnkkC5LaTWF+kWdorvFFw7nTy4q6jvmkH/SZYnbq5b\nURB99rJU67HTY0kD8JVwnNcj\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-qylux@amazn-next-487a4.iam.gserviceaccount.com",
-  "client_id": "110690385173976188420",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qylux%40amazn-next-487a4.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+// download it from private repo can not public this in repo
