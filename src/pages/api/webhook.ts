@@ -2,7 +2,7 @@ import { NextApiRequest, NextApiResponse } from "next";
 import { buffer } from "micro";
 import * as admin from "firebase-admin";
 
-const serviceAccount = require("./permissions.json");
+const serviceAccount = require("./permissions.js");
 
 // Secure a connection to Firebase from the backend
 const app = !admin.apps.length
