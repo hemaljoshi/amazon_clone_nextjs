@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import { StarIcon } from "@heroicons/react/solid";
+import { StarIcon } from "@heroicons/react/24/solid";
 import Currency from "react-currency-formatter";
 import { useDispatch } from "react-redux";
 import { addToBasket } from "@/slices/basketSlice";

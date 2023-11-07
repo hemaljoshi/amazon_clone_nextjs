@@ -1,5 +1,5 @@
 import { addToBasket, removeFromBasket } from "@/slices/basketSlice";
-import { StarIcon } from "@heroicons/react/solid";
+import { StarIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 import React from "react";
 import Currency from "react-currency-formatter";

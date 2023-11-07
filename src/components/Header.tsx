@@ -1,10 +1,10 @@
 import Image from "next/image";
 import React from "react";
 import {
-  MenuIcon,
-  SearchIcon,
+  Bars3Icon,
+  MagnifyingGlassIcon,
   ShoppingCartIcon,
-} from "@heroicons/react/outline";
+} from "@heroicons/react/24/outline";
 import { signIn, signOut, useSession } from "next-auth/react";
 import { useRouter } from "next/router";
 import { useSelector } from "react-redux";
@@ -35,7 +35,7 @@ const Header = () => {
             type="text"
             className="p-2 h-full w-6 flex-grow flex-shrink rounded-l-md focus:outline-none px-4"
           />
-          <SearchIcon className="h-12 p-4" />
+          <MagnifyingGlassIcon className="h-12 p-4" />
         </div>
         {/* right */}
         <div className="text-white flex items-center text-xs space-x-6 mx-6 whitespace-nowrap">
@@ -78,7 +78,7 @@ const Header = () => {
       {/* bottom nav */}
       <div className="flex items-center space-x-3 p-2 pl-6 bg-amazon_blue-light text-white text-sm">
         <p className="link flex items-center">
-          <MenuIcon className="h-6 mr-1" />
+          <Bars3Icon className="h-6 mr-1" />
           All
         </p>
         <p className="link">Prime Video</p>
